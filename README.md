@@ -43,10 +43,10 @@ A Bootstrap portfolio built with React
 
   ## URLs
   * Deployed App:
-    https://evadllewop.github.io/EmployeeDirectory/
+    https://evadllewop.github.io/react-portfolio/
 
   * Github Repo:
-    https://github.com/evadllewop/ReactPortfolio
+    https://github.com/evadllewop/react-portfolio
  
 
   ## Author
