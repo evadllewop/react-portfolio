@@ -63,6 +63,11 @@ function Portfolio() {
     return (
         <div className="container">
             <div class="row">
+                <div class="col-md-12"> This page is mainly for some of my development projects while attending SMU. For additional portfolio work through my design career, visit my <a href="https://www.behance.net/DavePowell" target="_blank"
+                >Behance</a> page. <br /> <br />
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-md-12">
                     <h3>Development Projects</h3>
                 </div>
@@ -80,6 +85,7 @@ function Portfolio() {
                 />
             ))}
         </div>
+
     )
 }
 export default Portfolio;
