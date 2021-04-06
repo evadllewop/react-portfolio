@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/Custom.css";
 import "../styles/Bootstrap.css";
+import Resume from '../DavePowell_Resume.pdf';
 
 function Social() {
     return (
@@ -22,7 +23,7 @@ function Social() {
             </a>
             <span style={{ color: '#ccc' }}>&nbsp; | &nbsp;</span>
 
-            <a href="DavePowell_Resume.pdf" target="_blank" alt="Email">
+            <a href={Resume} target="_blank" alt="Resume">
                 <span style={{ fontSize: '1em', color: '#333' }}>
                     <i className="fas fa-file-pdf"></i> View Resume
                 </span>

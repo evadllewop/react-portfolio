@@ -2,9 +2,19 @@ import React from "react";
 import Project from "../components/Project";
 import "../styles/Custom.css";
 import "../styles/Bootstrap.css";
+// import Beer from '../blw-screenshot.png';
 
 function Portfolio() {
     const projects = [
+        // {
+        //     name: 'beer likes water',
+        //     school: 'Southern Methodist University',
+        //     type: 'Homework Project',
+        //     technologies: ['HTML • ', 'CSS • ', 'Javascript • ', 'Bootstrap • ', 'AJAX • ', 'React • ', 'MongoDB • ', 'Mongoose • ', 'Axios • ', 'Passport • ', 'Express • ', 'Heroku'],
+        //     thumbnail: { Beer },
+        //     urlGit: 'https://github.com/evadllewop/be-like-water',
+        //     urlDeployed: 'https://polar-beach-07296.herokuapp.com/'
+        // },
         {
             name: 'Weather Dashboard',
             school: 'Southern Methodist University',
@@ -58,12 +68,13 @@ function Portfolio() {
             thumbnail: 'https://evadllewop.github.io/BootstrapPortfolio/Assets/Images/project_Password.png',
             urlGit: 'https://github.com/evadllewop/PasswordGenerator',
             urlDeployed: 'https://evadllewop.github.io/PasswordGenerator/'
-        },
+        }
+
     ]
     return (
         <div className="container">
             <div class="row">
-                <div class="col-md-12"> This page is mainly for some of my development projects while attending SMU. For additional portfolio work through my design career, visit my <a href="https://www.behance.net/DavePowell" target="_blank"
+                <div class="col-md-12"> This page is mainly for some of my development projects while attending SMU. For additional portfolio work throughout my design career, visit my <a href="https://www.behance.net/DavePowell" className="portLink" target="_blank"
                 >Behance</a> page. <br /> <br />
                 </div>
             </div>

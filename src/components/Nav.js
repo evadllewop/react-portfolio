@@ -7,26 +7,35 @@ function Nav({ setCurrentPage }) {
     // const location = useLocation();
 
     return (
-        <div className="navbar navbar-expand-lg navbar-dark bg-primary">
-            <a class="navbar-brand" id="logo" href="#">Dave Powell</a>
-            <ul className="nav">
-                <li className="nav-item">
-                    <span onClick={() => setCurrentPage('home')} >
-                        Home
+        <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+            <div class="container-fluid">
+                <span className="navbar-brand" id="logo" onClick={() => setCurrentPage('home')} >
+                    Dave Powell
                     </span>
-                </li>
-                <li className="nav-item">
-                    <span className="nav-item-active" onClick={() => setCurrentPage('portfolio')} >
-                        Portfolio
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div className="collapse navbar-collapse" id="navbarNav">
+                    <ul className="navbar-nav">
+                        <li className="nav-item">
+                            <span onClick={() => setCurrentPage('home')} >
+                                Home
                     </span>
-                </li>
-                <li className="nav-item">
-                    <span onClick={() => setCurrentPage('contact')} >
-                        Contact
+                        </li>
+                        <li className="nav-item">
+                            <span className="nav-item-active" onClick={() => setCurrentPage('portfolio')} >
+                                Portfolio
                     </span>
-                </li>
-            </ul>
-        </div>
+                        </li>
+                        <li className="nav-item">
+                            <span onClick={() => setCurrentPage('contact')} >
+                                Contact
+                    </span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
     );
 }
 

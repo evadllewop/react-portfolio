@@ -9,10 +9,10 @@ function Home({ setCurrentPage }) {
         <div className="container">
             <div className="jumbotron align-middle">
                 <p className="lead">
-                    Hello... Designer, developer, musician and horror movie freak from Texas<br /> currently seeking a full time web development opportunity.
+                    Hello... I am a designer, developer, musician and horror movie freak from Texas.<br /> I am currently seeking a full time junior web development opportunity.
                 </p>
                 <div className="row d-flex justify-content-center align-middle">
-                    <a className="btn btn-primary btn-md align-middle" onClick={() => { setCurrentPage('contact') }} role="button">Let's Do It
+                    <a className="btn btn-primary btn-md align-middle" onClick={() => { setCurrentPage('contact') }} role="button">Contact Me
                     <span
                             style={{ fontSize: "1em", color: "#fff", marginLeft: "10px" }}>
                             <i className="fas fa-pencil-alt"></i></span>
@@ -40,6 +40,8 @@ function Home({ setCurrentPage }) {
                                 collaborating with various smart and talented colleagues and teams within the structure of large
                                 successful corporations.
                                     </p>
+                            <p> Skills include: HTML • CSS • JavaScript • ES6 • JQuery • AJAX • Node.js • JSON • MySQL • MongoDB • Mongoose • React •
+                                GitHub • Bootstrap • WordPress • Adobe Creative Suite • Sketch • UI Design • UX Design • Digital Design</p>
                             <Social />
                         </div>
                     </div>
