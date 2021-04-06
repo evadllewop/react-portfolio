@@ -10,7 +10,7 @@ function Portfolio() {
             name: 'beer likes water',
             school: 'Southern Methodist University',
             type: 'Homework Project',
-            technologies: ['HTML • ', 'CSS • ', 'Javascript • ', 'Bootstrap • ', 'AJAX • ', 'React • ', 'MongoDB • ', 'Mongoose • ', 'Axios • ', 'Passport • ', 'Express • ', 'Heroku'],
+            technologies: ['HTML • ', 'CSS • ', 'Javascript • ', 'Bootstrap • ', 'AJAX • ', 'React • ', 'MongoDB • ', 'Mongoose • ', 'Axios • ', 'Passport • ', 'Express'],
             thumbnail: 'https://github.com/evadllewop/react-portfolio/blob/main/public/images/blw-screenshot.png?raw=true',
             urlGit: 'https://github.com/evadllewop/be-like-water',
             urlDeployed: 'https://polar-beach-07296.herokuapp.com/'
