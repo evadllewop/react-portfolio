@@ -2,19 +2,19 @@ import React from "react";
 import Project from "../components/Project";
 import "../styles/Custom.css";
 import "../styles/Bootstrap.css";
-// import Beer from '../blw-screenshot.png';
+// import Beer from 'https://github.com/evadllewop/react-portfolio/blob/main/public/images/blw-screenshot.png?raw=true';
 
 function Portfolio() {
     const projects = [
-        // {
-        //     name: 'beer likes water',
-        //     school: 'Southern Methodist University',
-        //     type: 'Homework Project',
-        //     technologies: ['HTML • ', 'CSS • ', 'Javascript • ', 'Bootstrap • ', 'AJAX • ', 'React • ', 'MongoDB • ', 'Mongoose • ', 'Axios • ', 'Passport • ', 'Express • ', 'Heroku'],
-        //     thumbnail: { Beer },
-        //     urlGit: 'https://github.com/evadllewop/be-like-water',
-        //     urlDeployed: 'https://polar-beach-07296.herokuapp.com/'
-        // },
+        {
+            name: 'beer likes water',
+            school: 'Southern Methodist University',
+            type: 'Homework Project',
+            technologies: ['HTML • ', 'CSS • ', 'Javascript • ', 'Bootstrap • ', 'AJAX • ', 'React • ', 'MongoDB • ', 'Mongoose • ', 'Axios • ', 'Passport • ', 'Express • ', 'Heroku'],
+            thumbnail: 'https://github.com/evadllewop/react-portfolio/blob/main/public/images/blw-screenshot.png?raw=true',
+            urlGit: 'https://github.com/evadllewop/be-like-water',
+            urlDeployed: 'https://polar-beach-07296.herokuapp.com/'
+        },
         {
             name: 'Weather Dashboard',
             school: 'Southern Methodist University',
