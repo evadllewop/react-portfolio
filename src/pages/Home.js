@@ -33,9 +33,9 @@ function Home({ setCurrentPage }) {
                             className="profile-pic" alt="Dave Powell" />
                         <div className="card-body">
                             <p>
-                                Passionate web designer/developer leveraging 10 + years of extensive experience in creative design,
+                                Passionate web designer/full stack developer leveraging 10 + years of extensive experience in creative design,
                                 digital
-                                marketing, development, conceptualizing and problem solving who currently seeks a full-time junior web
+                                marketing, development, conceptualizing and problem solving who currently seeks a full-time UI design/web
                                 development position. Development education stems from Southern Methodist University along with years of
                                 collaborating with various smart and talented colleagues and teams within the structure of large
                                 successful corporations.
