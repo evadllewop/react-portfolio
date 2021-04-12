@@ -2,7 +2,6 @@ import React from "react";
 import Project from "../components/Project";
 import "../styles/Custom.css";
 import "../styles/Bootstrap.css";
-// import Beer from 'https://github.com/evadllewop/react-portfolio/blob/main/public/images/blw-screenshot.png?raw=true';
 
 function Portfolio() {
     const projects = [

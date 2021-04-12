@@ -9,7 +9,7 @@ function Home({ setCurrentPage }) {
         <div className="container">
             <div className="jumbotron align-middle">
                 <p className="lead">
-                    Hello... I am a designer, developer, musician and horror movie freak from Texas.<br /> I am currently seeking a full time junior web development opportunity.
+                    Hello... I am a designer, full stack developer, musician, horror movie freak and cat lover from Texas.<br /> I am currently seeking a full time UI design/web development opportunity.
                 </p>
                 <div className="row d-flex justify-content-center align-middle">
                     <a className="btn btn-primary btn-md align-middle" onClick={() => { setCurrentPage('contact') }} role="button">Contact Me
