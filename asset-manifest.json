@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.44a66722.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.9712aac8.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.9712aac8.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.0d821ef4.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.c458ba7d.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.c458ba7d.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.e530417f.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.e530417f.js.map",
     "static/js/2.b9b408bb.chunk.js": "/react-portfolio/static/js/2.b9b408bb.chunk.js",
     "static/js/2.b9b408bb.chunk.js.map": "/react-portfolio/static/js/2.b9b408bb.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.44a66722.chunk.css.map": "/react-portfolio/static/css/main.44a66722.chunk.css.map",
+    "static/css/main.0d821ef4.chunk.css.map": "/react-portfolio/static/css/main.0d821ef4.chunk.css.map",
     "static/js/2.b9b408bb.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.b9b408bb.chunk.js.LICENSE.txt",
     "static/media/DavePowell_Resume.79e1b11d.pdf": "/react-portfolio/static/media/DavePowell_Resume.79e1b11d.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.e530417f.js",
     "static/js/2.b9b408bb.chunk.js",
-    "static/css/main.44a66722.chunk.css",
-    "static/js/main.9712aac8.chunk.js"
+    "static/css/main.0d821ef4.chunk.css",
+    "static/js/main.c458ba7d.chunk.js"
   ]
 }
