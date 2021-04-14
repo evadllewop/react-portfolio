@@ -9,7 +9,7 @@ function Home({ setCurrentPage }) {
         <div className="container">
             <div className="jumbotron align-middle">
                 <p className="lead">
-                    Hello... I am a designer, full stack developer, musician, horror movie freak and cat lover from Texas.<br /> I am currently seeking a full time UI design/web development opportunity.
+                    Hello... I am a designer, full stack developer, musician, horror movie freak and cat lover from Texas.<br /> I am currently seeking a full time web development opportunity.
                 </p>
                 <div className="row d-flex justify-content-center align-middle">
                     <a className="btn btn-primary btn-md align-middle" onClick={() => { setCurrentPage('contact') }} role="button">Contact Me
@@ -33,7 +33,7 @@ function Home({ setCurrentPage }) {
                             className="profile-pic" alt="Dave Powell" />
                         <div className="card-body">
                             <p>
-                                Passionate web designer/full stack developer leveraging 10 + years of extensive experience in creative design,
+                                Passionate web designer/full stack developer leveraging 8 + years of extensive experience in creative design,
                                 digital
                                 marketing, development, conceptualizing and problem solving who currently seeks a full-time UI design/web
                                 development position. Development education stems from Southern Methodist University along with years of
