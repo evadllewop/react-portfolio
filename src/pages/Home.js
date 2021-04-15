@@ -35,7 +35,7 @@ function Home({ setCurrentPage }) {
                             <p>
                                 Passionate web designer/full stack developer leveraging 8 + years of extensive experience in creative design,
                                 digital
-                                marketing, development, conceptualizing and problem solving who currently seeks a full-time UI design/web
+                                marketing, development, conceptualizing and problem solving who currently seeks a full-time web
                                 development position. Development education stems from Southern Methodist University along with years of
                                 collaborating with various smart and talented colleagues and teams within the structure of large
                                 successful corporations.
